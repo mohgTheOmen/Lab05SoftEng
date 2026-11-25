@@ -1,5 +1,12 @@
+# Changelog
+
 ## v1.0
+
+### Added
+- A requirement that passwords must have at least 10 characters.
+
 ### Changed
-- Added a minimum length requirement of 10 characters for passwords
-- Changed email validation to require both "@" and "." in the email address
-- Changed vowel counting to include both lowercase and uppercase vowels
+- The vowels counting function now includes both lowercase and uppercase vowels in its count.
+
+### Fixed
+- No relevant fixes were included in this release.
